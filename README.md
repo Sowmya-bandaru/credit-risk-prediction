@@ -3,7 +3,7 @@
 A machine learning system that predicts the probability a loan applicant will default, and explains *why* using SHAP - built as a Streamlit web app backed by a FastAPI service.
 
 ## Live Demo
-- App: [YOUR_STREAMLIT_URL_HERE]
+- App: []
 - API docs: [YOUR_RENDER_URL_HERE]/docs
 
 ## Problem Statement
@@ -70,4 +70,4 @@ Each prediction is accompanied by a SHAP-based breakdown of the top 5 features t
    streamlit run app.py
 
 ## Author
-[Your name]
+[Sowmya]
