@@ -3,8 +3,8 @@
 A machine learning system that predicts the probability a loan applicant will default, and explains *why* using SHAP - built as a Streamlit web app backed by a FastAPI service.
 
 ## Live Demo
-- App: []
-- API docs: [YOUR_RENDER_URL_HERE]/docs
+- App: [https://credit-risk-prediction-7qvxkabjpqsawaqf8yzzya.streamlit.app/]
+- API docs: [https://credit-risk-api-piug.onrender.com]/docs
 
 ## Problem Statement
 Lenders need to assess the risk of a loan applicant defaulting - but a black-box "yes/no" isn't enough for real decision-making or regulatory transparency. This project predicts default probability and explains which factors drove each prediction.
