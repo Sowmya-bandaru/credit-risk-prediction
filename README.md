@@ -42,7 +42,7 @@ Final model: XGBoost (n_estimators=100, max_depth=5, learning_rate=0.1)
 Each prediction is accompanied by a SHAP-based breakdown of the top 5 features that pushed that specific applicant's risk score up or down.
 
 ## Screenshots
-[Add screenshots of your Streamlit app here]
+[screenshots below]
 
 ## Tech Stack
 - Modeling: pandas, scikit-learn, XGBoost, SHAP
