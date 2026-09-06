@@ -44,7 +44,7 @@ if st.button("Assess Risk"):
         "purpose_vacation": purpose == "vacation",
         "purpose_wedding": purpose == "wedding",
     }
-    response = requests.post("http://127.0.0.1:8000/predict", json=payload)
+    response = requests.post("https://credit-risk-api-piug.onrender.com/predict", json=payload)
     result = response.json()
 
     prob = result["default_probability"]
